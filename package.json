@@ -1,0 +1,17 @@
+{
+  "name": "webbug",
+  "version": "1.0.0",
+  "description": "a demo for web bug.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "knock",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "xlsx": "^0.15.1"
+  }
+}
